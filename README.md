@@ -24,15 +24,6 @@ At the end of each lesson, you will need to complete the assessment to earn cred
 ![](https://raw.githubusercontent.com/BSMP-Coders/advanced-intro-githubcopilot/main/media/lesson-completion.png)
 
 
-<details>
-<summary>More details on the badge</summary>
-
-At the end of each lesson, you will need to complete the assessment to earn credit and receive badges. Badges can be shared on socials. Badges can put you on track to obtaining official Microsoft Certifications that can even help with College Credit
-
-![](https://raw.githubusercontent.com/BSMP-Coders/advanced-intro-githubcopilot/main/media/lesson-completion.png)
-
-</details>
-
 ---
 
 
