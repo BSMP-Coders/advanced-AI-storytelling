@@ -19,9 +19,13 @@ Use your Learn account created above to login for access to course content. Clic
 > 
 > * [Microsoft Learn Module - Animate Images with Sora](https://learn.microsoft.com/en-us/training/modules/animate-impossible/?source=recommendations)
 
+At the end of each lesson, you will need to complete the assessment to earn credit and receive badges. Badges can be shared on socials. Badges can put you on track to obtaining official Microsoft Certifications that can even help with College Credit
+
+![](https://raw.githubusercontent.com/BSMP-Coders/advanced-intro-githubcopilot/main/media/lesson-completion.png)
+
 
 <details>
-<summary>More details: Responsible AI</summary>
+<summary>More details on the badge</summary>
 
 At the end of each lesson, you will need to complete the assessment to earn credit and receive badges. Badges can be shared on socials. Badges can put you on track to obtaining official Microsoft Certifications that can even help with College Credit
 
