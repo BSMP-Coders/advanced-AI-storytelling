@@ -7,6 +7,29 @@
 | Lesson 9 | [**Showcase + AI Literacy**](lesson9/README.md)              | All tools used                                                       | Presentation skills, ethical AI, digital literacy                                                          |  
 
 
+#### Microsoft Learn Related Assignments for Digital Badge
+
+Use your Learn account created above to login for access to course content. Click Start Button to get started.
+
+> [!NOTE] Earn a digital badge by completing this assignment 
+> 
+> * [Microsoft Learn Module - Generate images with AI](https://learn.microsoft.com/en-us/training/modules/generate-images-azure-openai/?source=recommendations)
+>
+> * [Microsoft Learn Module - Breathing life into stories - character and dialogue creation with Azure](https://learn.microsoft.com/en-us/training/modules/breathing-life-into-stories/)
+> 
+> * [Microsoft Learn Module - Animate Images with Sora](https://learn.microsoft.com/en-us/training/modules/animate-impossible/?source=recommendations)
+
+
+<details>
+<summary>More details: Responsible AI</summary>
+
+At the end of each lesson, you will need to complete the assessment to earn credit and receive badges. Badges can be shared on socials. Badges can put you on track to obtaining official Microsoft Certifications that can even help with College Credit
+
+![](https://raw.githubusercontent.com/BSMP-Coders/advanced-intro-githubcopilot/main/media/lesson-completion.png)
+
+</details>
+
+---
 
 
 
